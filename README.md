@@ -21,3 +21,6 @@ This is a simple web application that converts decimal numbers to Roman numerals
 - CSS
 - JavaScript
 
+## Credits
+
+This project was created as part of the FreeCodeCamp curriculum.
